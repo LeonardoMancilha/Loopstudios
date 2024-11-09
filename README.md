@@ -1,6 +1,4 @@
-<h1 align="center">Loop Studios</h1>
-
-<img src="https://user-images.githubusercontent.com/74615811/177013283-40c5a709-6490-4f2b-86b6-38cc5b81ce49.png" alt="Loopstudios">
+<img src="https://github.com/user-attachments/assets/2217fb28-34fb-4dc4-8049-1e8125dcb064" alt="Loopstudios">
 
 ## 💻 Descrição do projeto / Description of the project
 
